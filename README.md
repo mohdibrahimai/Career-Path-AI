@@ -1,4 +1,4 @@
-# 🚀 Career Vision AI — Intelligent, Self-Learning Career Recommendation System
+# 🚀 Career Path AI — Intelligent, Self-Learning Career Recommendation System
 
 Career Vision AI is a smart web application that recommends personalized career paths using Reinforcement Learning (DQN). It's designed to help users—students, professionals, or career switchers—find the most suitable career based on their resume or skill profile.
 
